@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ssm_dao_69/ssm_dao_69.iml" filepath="$PROJECT_DIR$/ssm_dao_69/ssm_dao_69.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_domain_69/ssm_domain_69.iml" filepath="$PROJECT_DIR$/ssm_domain_69/ssm_domain_69.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_parent_69.iml" filepath="$PROJECT_DIR$/ssm_parent_69.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_service_69/ssm_service_69.iml" filepath="$PROJECT_DIR$/ssm_service_69/ssm_service_69.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_util_69/ssm_util_69.iml" filepath="$PROJECT_DIR$/ssm_util_69/ssm_util_69.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_web_69/ssm_web_69.iml" filepath="$PROJECT_DIR$/ssm_web_69/ssm_web_69.iml" />
+    </modules>
+  </component>
+</project>
